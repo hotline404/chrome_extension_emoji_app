@@ -22,5 +22,6 @@
 정처기 시험 공부를 하며 배운 개념에 대한 실천 경험  
 
 🍀 이 개발에 대한 이야기는 다음 블로그 주소에서 확인 하실 수 있습니다!  
-<a>https://tfvo-dev.tistory.com/10</a>
+<a>https://tfvo-dev.tistory.com/10</a>  
+<a>https://chromewebstore.google.com/detail/copy-emoji-extension/kcdkeiododpdchflknebhimhkbgnmhlm?hl=ko&utm_source=ext_sidebar</a>  
 
